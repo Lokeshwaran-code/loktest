@@ -1,0 +1,46 @@
+[
+  {
+    "workout_name": "Chest",
+    "id": "1"
+  },
+  {
+    "workout_name": "Back",
+    "id": "2"
+  },
+  {
+    "workout_name": "Biceps",
+    "id": "3"
+  },
+  {
+    "workout_name": "Triceps",
+    "id": "4"
+  },
+  {
+    "workout_name": "Shoulder",
+    "id": "5"
+  },
+  {
+    "workout_name": "Thigh",
+    "id": "6"
+  },
+  {
+    "workout_name": "Calf",
+    "id": "7"
+  },
+  {
+    "workout_name": "Forearm",
+    "id": "8"
+  },
+  {
+    "workout_name": "Abs",
+    "id": "9"
+  },
+  {
+    "workout_name": "Hip",
+    "id": "10"
+  },
+  {
+    "workout_name": "Cardio",
+    "id": "11"
+  }
+]
